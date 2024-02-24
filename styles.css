@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+#color{
+	background-color: rgb(135, 206, 235);
+}
+#para1{
+	background-color: black;
+	color: white;
+}
+#para3{
+	color: red;
+}
+.white{
+	background-color: white;
+	width: 50%;
+	padding: 10px;
+	font-size: 22px;
+}
+.gray{
+	background-color: gray;
+	width: 50%;
+	padding: 10px;
+}
+.pink{
+	background-color: pink;
+	width: 50%;
+	padding: 10px;
+}
