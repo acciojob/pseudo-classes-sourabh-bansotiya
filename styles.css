@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
-#color{
+#maindiv{
 	background-color: rgb(135, 206, 235);
+	height:580px;
 }
 #para1{
 	background-color: black;
